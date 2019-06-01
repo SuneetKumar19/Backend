@@ -1,0 +1,52 @@
+ #email {
+     font-size: 23px;
+     /* font-family: 'Anton', sans-serif;/ */
+     /* font-family: 'Ranga', cursive; */
+     font-family: 'Fira Sans Condensed', sans-serif;
+     text-decoration-color: bisque
+ }
+ 
+ #pwd {
+     font-size: 23px;
+     /* font-family: 'Anton', sans-serif;
+     
+     */
+     /* font-family: 'Ranga', cursive;
+      */
+     font-family: 'Fira Sans Condensed', sans-serif;
+     /* text-decoration-color: bisque */
+ }
+ 
+ .checkbox {
+     /* font-family: 'Ranga', cursive; */
+     font-family: 'Fira Sans Condensed', sans-serif;
+     /* text-decoration-color: bisque */
+ }
+ 
+ .container {
+     padding-top: 100px;
+ }
+ 
+ .jumbotron {
+     color: rgb(53, 34, 5);
+     box-shadow: 10px 16px 16px;
+ }
+ 
+ .container .jumbotron {
+     border-radius: 100px;
+ }
+ 
+ h1 {
+     text-align: center;
+     padding-top: 56px;
+     font-weight: 200;
+     font-size: 50px;
+     font-family: 'Permanent Marker', cursive;
+     text-shadow: 15px 15px 12px;
+     /* col */
+ }
+ 
+ body {
+     background-color: rgb(240, 237, 228);
+     /* background-image: url("new2.jpg"); */
+ }
