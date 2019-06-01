@@ -36,13 +36,28 @@
      border-radius: 100px;
  }
  
- h1 {
+ #suc_k {
+     padding-left: 43%;
+     padding-right: 40%;
      text-align: center;
-     padding-top: 56px;
+     /* padding-top: 56px; */
+     font-weight: 200;
+     font-size: 75px;
+     font-family: 'Permanent Marker', cursive;
+     text-shadow: 15px 15px 12px rgba(0, 0, 0, 0.288);
+     color: rgb(15, 155, 211);
+ }
+ 
+ font {
+     padding-left: 10%;
+     /* padding-right: 40%; */
+     text-align: center;
+     /* padding-top: 56px; */
      font-weight: 200;
      font-size: 50px;
      font-family: 'Permanent Marker', cursive;
-     text-shadow: 15px 15px 12px;
+     text-shadow: 15px 15px 12px rgba(0, 0, 0, 0.288);
+     color: rgb(17, 142, 192);
      /* col */
  }
  
