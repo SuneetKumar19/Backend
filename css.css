@@ -33,7 +33,7 @@
  }
  
  .container .jumbotron {
-     border-radius: 100px;
+     border-radius: 120px;
  }
  
  #suc_k {
@@ -44,7 +44,7 @@
      font-weight: 200;
      font-size: 75px;
      font-family: 'Permanent Marker', cursive;
-     text-shadow: 15px 15px 12px rgba(0, 0, 0, 0.288);
+     text-shadow: 15px 15px 12px rgba(0, 0, 0, 0.278);
      color: rgb(15, 155, 211);
  }
  
@@ -67,7 +67,7 @@
  }
  
  #user {
-     padding-left: 100px;
+     padding-left: 110px;
      font-size: 45px;
      color: rgb(15, 155, 211);
      /* box-shadow: 10px 10px 10px; */
